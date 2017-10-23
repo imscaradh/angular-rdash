@@ -1,0 +1,10 @@
+{
+  "version": 3,
+  "file": "user-list-view.js",
+  "sourceRoot": "",
+  "sources": [
+    "user-list-view.ts"
+  ],
+  "names": [],
+  "mappings": ";;;;;;;;;;;;;;;;;;;;;gBAYI;oBACI,IAAI,CAAC,KAAK,GAAG,EAAE,CAAC;gBACpB,CAAC;gBAJD;oBADC,YAAK,EAAE;;2DACI;gBAHH,YAAY;oBALxB,gBAAS,CAAC;wBACP,QAAQ,EAAE,gBAAgB;wBAC1B,WAAW,EAAE,mDAAmD;wBAChE,UAAU,EAAE,EAAE;qBACjB,CAAC;;mBACW,YAAY,CAQxB;gBAAD,mBAAC;aAAA,AARD;;QASA,CAAC"
+}
