@@ -1,6 +1,6 @@
-# TestNg2
+# Angular RDash
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.4.7.
+This repo contains an ![angular.io](https://angular.io/) implementation of the bloat free, responsive and bootstrap powered RDash admin template. The original implementation with AngularJS can be found ![here](https://github.com/rdash/rdash-angular).
 
 ## Development server
 
